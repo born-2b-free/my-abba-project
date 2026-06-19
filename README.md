@@ -3,16 +3,13 @@ created by Reaktor Innovations and University of Helsinki.
 Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
-
 Final project for the Building AI course
 
 ## Summary
-
 Building AI course project 
 
 
 ## Background
-
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
